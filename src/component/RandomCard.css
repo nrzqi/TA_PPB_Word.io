@@ -1,0 +1,36 @@
+.RandomCard{
+    margin: auto;
+    width: 90%;
+    border-radius: 20px;
+    background-color: white;
+    outline: auto;
+    outline-color: #8490E8;
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: left;
+    color: black;
+    font-size: 28px;
+    position: center;
+
+}
+
+.buttonRandomCard{
+    margin-top: 20px;
+    display: inline-block;
+    width: 50%;
+    height: 36px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #8490E8;
+    color: white;
+    font-size: 14px;
+    text-decoration: none;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.buttonRandomCard:hover{
+    background-color: #0265a2;
+}

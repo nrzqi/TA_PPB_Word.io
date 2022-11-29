@@ -1,0 +1,34 @@
+.contentDetailRandom {
+    padding-top: 120px;
+    text-align: center;
+  }
+  
+  .contentDetailRandomImg {
+    width: 512px;
+  }
+  
+  .cardDetailRandom {
+    width: 100%;
+    border-radius: 20px;
+    border: 1px solid #585e84;
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: right;
+    font-size: 12px;
+
+  }
+  
+  @media screen and (min-width: 768px) {
+    .contentDetailRandom {
+      padding-top: 10px;
+      width: 40%;
+      margin: auto;
+    }
+  }
+
+  .contentWord{
+    color: #8490E8;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 36px;
+    line-height: 16px;
+  }

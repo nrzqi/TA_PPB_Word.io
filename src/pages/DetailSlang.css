@@ -1,0 +1,33 @@
+.contentDetailSlang {
+    padding-top: 120px;
+    text-align: center;
+  }
+  
+  .contentDetailSlangImg {
+    width: 512px;
+  }
+  
+  .cardDetailSlang {
+    width: 100%;
+    border-radius: 20px;
+    border: 1px solid #585e84;
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: left;
+    font-size: 14px;
+  }
+  
+  @media screen and (min-width: 768px) {
+    .contentDetailSlang {
+      padding-top: 10px;
+      width: 40%;
+      margin: auto;
+    }
+  }
+
+  .contentWord{
+    color: #8490E8;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 36px;
+    line-height: 16px;
+}
